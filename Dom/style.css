@@ -1,17 +1,16 @@
-.box{
-    height: 200px;
-    width: 200px;
-    border: 2px solid black;
-    margin: 5px;
-    text-align: center;
-    background-color: chocolate;
+.para{
+    color: red;
 }
-h1{
-    width: 50;
-    position: relative;
-    align-self: center;
+.newClass{
+    background-color: blue;
+}
 
-}
-body{
-    background-color: aqua;
+.Div {
+    background-color: green;
+    align-self: center;
+    color: aqua;
+    height: 100px;
+    width: 100px;
+    border: 1px black;
+
 }
